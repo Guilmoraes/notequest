@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/config/i18n/i18n.js"  ]
 }
